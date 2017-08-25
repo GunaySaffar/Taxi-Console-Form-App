@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp4taxi\WindowsFormsApp4taxi\bin\Debug\WindowsFormsApp4taxi.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp4taxi\WindowsFormsApp4taxi\bin\Debug\WindowsFormsApp4taxi.exe
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp4taxi\WindowsFormsApp4taxi\bin\Debug\WindowsFormsApp4taxi.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp4taxi\WindowsFormsApp4taxi\obj\Debug\WindowsFormsApp4taxi.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp4taxi\WindowsFormsApp4taxi\obj\Debug\WindowsFormsApp4taxi.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp4taxi\WindowsFormsApp4taxi\obj\Debug\WindowsFormsApp4taxi.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp4taxi\WindowsFormsApp4taxi\obj\Debug\WindowsFormsApp4taxi.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp4taxi\WindowsFormsApp4taxi\obj\Debug\WindowsFormsApp4taxi.exe
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp4taxi\WindowsFormsApp4taxi\obj\Debug\WindowsFormsApp4taxi.pdb

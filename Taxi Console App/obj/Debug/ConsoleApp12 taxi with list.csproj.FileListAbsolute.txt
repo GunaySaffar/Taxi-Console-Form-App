@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\ConsoleApp12 taxi with list\bin\Debug\ConsoleApp12 taxi with list.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\ConsoleApp12 taxi with list\bin\Debug\ConsoleApp12 taxi with list.exe
+c:\users\admin\documents\visual studio 2017\Projects\ConsoleApp12 taxi with list\bin\Debug\ConsoleApp12 taxi with list.pdb
+c:\users\admin\documents\visual studio 2017\Projects\ConsoleApp12 taxi with list\obj\Debug\ConsoleApp12 taxi with list.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\ConsoleApp12 taxi with list\obj\Debug\ConsoleApp12 taxi with list.exe
+c:\users\admin\documents\visual studio 2017\Projects\ConsoleApp12 taxi with list\obj\Debug\ConsoleApp12 taxi with list.pdb
